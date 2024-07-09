@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "fname": "Aarav",
+      "lname": "Sharma",
+      "email": "aarav.sharma@example.com",
+      "gender": "Male",
+      "location": "Mumbai",
+      "salary": 50000
+    },
+    {
+      "id": 2,
+      "fname": "Vivaan",
+      "lname": "Verma",
+      "email": "vivaan.verma@example.com",
+      "gender": "Male",
+      "location": "Delhi",
+      "salary": 52000
+    },
+    {
+      "id": 3,
+      "fname": "Aditya",
+      "lname": "Nair",
+      "email": "aditya.nair@example.com",
+      "gender": "Male",
+      "location": "Bangalore",
+      "salary": 54000
+    },
+    {
+      "id": 4,
+      "fname": "Diya",
+      "lname": "Patel",
+      "email": "diya.patel@example.com",
+      "gender": "Female",
+      "location": "Ahmedabad",
+      "salary": 55000
+    },
+    {
+      "id": 5,
+      "fname": "Ananya",
+      "lname": "Reddy",
+      "email": "ananya.reddy@example.com",
+      "gender": "Female",
+      "location": "Hyderabad",
+      "salary": 53000
+    },
+    {
+      "id": 6,
+      "fname": "Ishaan",
+      "lname": "Singh",
+      "email": "ishaan.singh@example.com",
+      "gender": "Male",
+      "location": "Chandigarh",
+      "salary": 51000
+    },
+    {
+      "id": 7,
+      "fname": "Myra",
+      "lname": "Desai",
+      "email": "myra.desai@example.com",
+      "gender": "Female",
+      "location": "Surat",
+      "salary": 56000
+    },
+    {
+      "id": 8,
+      "fname": "Arjun",
+      "lname": "Mishra",
+      "email": "arjun.mishra@example.com",
+      "gender": "Male",
+      "location": "Pune",
+      "salary": 57000
+    },
+    {
+      "id": 9,
+      "fname": "Aditi",
+      "lname": "Roy",
+      "email": "aditi.roy@example.com",
+      "gender": "Female",
+      "location": "Kolkata",
+      "salary": 55000
+    },
+    {
+      "id": 10,
+      "fname": "Krishna",
+      "lname": "Agarwal",
+      "email": "krishna.agarwal@example.com",
+      "gender": "Male",
+      "location": "Jaipur",
+      "salary": 52000
+    },
+    {
+      "id": 11,
+      "fname": "Meera",
+      "lname": "Joshi",
+      "email": "meera.joshi@example.com",
+      "gender": "Female",
+      "location": "Indore",
+      "salary": 54000
+    },
+    {
+      "id": 12,
+      "fname": "Ayaan",
+      "lname": "Ghosh",
+      "email": "ayaan.ghosh@example.com",
+      "gender": "Male",
+      "location": "Patna",
+      "salary": 50000
+    },
+    {
+      "id": 13,
+      "fname": "Sara",
+      "lname": "Kapoor",
+      "email": "sara.kapoor@example.com",
+      "gender": "Female",
+      "location": "Lucknow",
+      "salary": 51000
+    },
+    {
+      "id": 14,
+      "fname": "Kabir",
+      "lname": "Chopra",
+      "email": "kabir.chopra@example.com",
+      "gender": "Male",
+      "location": "Chennai",
+      "salary": 53000
+    },
+    {
+      "id": 15,
+      "fname": "Anaya",
+      "lname": "Menon",
+      "email": "anaya.menon@example.com",
+      "gender": "Female",
+      "location": "Kochi",
+      "salary": 52000
+    },
+    {
+      "id": 16,
+      "fname": "Rohan",
+      "lname": "Jain",
+      "email": "rohan.jain@example.com",
+      "gender": "Male",
+      "location": "Nagpur",
+      "salary": 50000
+    },
+    {
+      "id": 17,
+      "fname": "Ira",
+      "lname": "Malhotra",
+      "email": "ira.malhotra@example.com",
+      "gender": "Female",
+      "location": "Bhopal",
+      "salary": 51000
+    },
+    {
+      "id": 18,
+      "fname": "Reyansh",
+      "lname": "Das",
+      "email": "reyansh.das@example.com",
+      "gender": "Male",
+      "location": "Guwahati",
+      "salary": 53000
+    },
+    {
+      "id": 19,
+      "fname": "Nisha",
+      "lname": "Sen",
+      "email": "nisha.sen@example.com",
+      "gender": "Female",
+      "location": "Ranchi",
+      "salary": 52000
+    },
+    {
+      "id": 20,
+      "fname": "Dev",
+      "lname": "Pandey",
+      "email": "dev.pandey@example.com",
+      "gender": "Male",
+      "location": "Varanasi",
+      "salary": 50000
+    }
+  ]
+  
